@@ -226,8 +226,13 @@ td,th {
 h1 {
 	text-align: center;
 }
+nav a {
+font-size: 20px;
+}
 nav {
-	position: static;
+	position: relative;
+	top: 20px;
+	
 }
 .lista-beneficios, .imagem-beneficios {
 	width: 100%
